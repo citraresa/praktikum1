@@ -1,16 +1,14 @@
-# flutter_application_1
+# Praktikum 1
 
-A new Flutter project.
+1. Praktikum text widget
+2. Praktikum image widget
+3. Praktikum kombinasi image dan text
 
-## Getting Started
+## Tahapan kombinasi images dan text
+1. Membuat file praktikum
+2. Membuat  file Text Widget diforder lib untuk menampilkan teks di layar dan memodifikasi propertinya seperti ukuran (fontSize), warna (color)
+3. Membuat  file text_widget.dart di folder lib, menampilkan gambar  untuk mengatur ukuran gambar agar sesuai dengan desain yang diinginkan
+4. Masukkan file gambar ke folder images yang berada di dalam folder lib, daftarkan Gambar di file pubspec.yaml
+5. Jalankan diterminal dengan perintah flutter run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2025-09-01 at 18 15 09_ad45d687](https://github.com/user-attachments/assets/eba52fe4-c5af-4055-bff7-643fb08d8df8)
